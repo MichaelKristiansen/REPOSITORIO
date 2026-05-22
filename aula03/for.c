@@ -1,6 +1,5 @@
 #include <stdio.h>
-//for while dowhile
-
+//for
 int main(){
 
     float media_aluno, media_turma, soma_media = 0;

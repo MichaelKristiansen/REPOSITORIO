@@ -1,4 +1,5 @@
 #include <stdio.h>
+// while dowhile
 int main(){
     int soma = 0, n;
 

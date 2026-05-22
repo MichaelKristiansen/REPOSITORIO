@@ -1,4 +1,9 @@
 #include <stdio.h>
+// 61. Um usuário deseja um algoritmo pelo qual possa escolher que tipo de média
+// deseja calcular a partir de três notas. Faça um algoritmo que leia as notas, a
+// opção escolhida pelo usuário e calcule a média:
+// 1- aritmética
+// 2- ponderada (pesos 3, 3, 4)
 int main(){
     int tipo_media;
     float n1, n2, n3, media;

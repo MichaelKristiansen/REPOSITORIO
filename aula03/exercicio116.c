@@ -1,4 +1,7 @@
 #include <stdio.h>
+// 116. Faça um algoritmo que leia um número e divida-o por dois (sucessivamente)
+// ate que o resultado seja menor que 1. Mostre o resultado da ultima divisão e a
+// quantidade de divisões efetuadas.
 int main(){
     float n, n_inicial;
     int repeticoes = 0;
